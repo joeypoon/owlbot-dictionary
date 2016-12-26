@@ -17,5 +17,7 @@
     "url": "https://github.com/joeypoon/owlbot-dictionary/issues"
   },
   "homepage": "https://github.com/joeypoon/owlbot-dictionary#readme",
-  "dependencies": {}
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
 }
