@@ -1,0 +1,21 @@
+{
+  "name": "owlbot-dictionary",
+  "version": "1.0.0",
+  "description": "Wrapper for using owlbot dictionary api.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeypoon/owlbot-dictionary.git"
+  },
+  "keywords": [
+    "dictionary"
+  ],
+  "author": "Joey F. Poon <joey@kaijudev.com> (http://kaijudev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeypoon/owlbot-dictionary/issues"
+  },
+  "homepage": "https://github.com/joeypoon/owlbot-dictionary#readme",
+  "dependencies": {}
+}
