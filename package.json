@@ -1,6 +1,6 @@
 {
   "name": "owlbot-dictionary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for using owlbot dictionary api.",
   "main": "index.js",
   "scripts": {},
